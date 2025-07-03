@@ -7,13 +7,6 @@
 ## 📖 About CryptoAlgo AI Trading Bot
 
 **CryptoAlgo AI Trading Bot** is a state-of-the-art, fully automated trading tool for **Ethereum** and **Binance Smart Chain**. Powered by advanced algorithms, it maximizes profits through **cross-DEX arbitrage**, **swing trading**, and **grid trading strategies**, while minimizing gas costs and protecting against **MEV (Miner Extractable Value) exploits**. Its **intuitive interface** makes it ideal for both beginners and seasoned traders diving into decentralized finance.
-
----
-
-### 📹 Watch the Video Tutorial
-[<img src="https://i.ibb.co/xtFLpRBk/youtube-subscribe-button-6030373-640.png" alt="youtube-subscribe-button-6030373-640" width="150">](https://www.youtube.com/watch?v=dhnvuwFpoiE)  
-*Click the red YouTube button above to view the full tutorial!*
-
 ---
 
 ## 🛠️ Setup Instructions
